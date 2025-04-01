@@ -1,0 +1,70 @@
+﻿Build started 1/24/2020 5:55:15 PM.
+     1>Project "E:\ماتريال الكليه\My Projects\MY Project 1(library Management System )\proj\Library Management System\Library Management System\Library Management System.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Library Management System.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Library Management System.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Library Management System.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp "Form 1.cpp" "Form 4.cpp" Form2.cpp Form3.cpp Form31.cpp Form32.cpp form33.cpp form42.cpp form5.cpp form6.cpp form7.cpp form8.cpp "Library Management System.cpp" /clr:nostdlib 
+         AssemblyInfo.cpp
+         Form 1.cpp
+         Form 4.cpp
+         Form2.cpp
+         Form3.cpp
+         Form31.cpp
+         Form32.cpp
+         form33.cpp
+         form42.cpp
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\form42.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\form5.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\form6.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         form5.cpp
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\form5.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\form6.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         form6.cpp
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\form6.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         form7.cpp
+         form8.cpp
+         Library Management System.cpp
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\Form1.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\Form2.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\Form1.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\Form42.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\form5.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>e:\ماتريال الكليه\my projects\my project 1(library management system )\proj\library management system\library management system\form6.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\abdod\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ماتريال الكليه\My Projects\MY Project 1(library Management System )\proj\Library Management System\Debug\Library Management System.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\LibraryManagementSystem.Form1.resources /ASSEMBLYRESOURCE:Debug\LibraryManagementSystem.Form2.resources /ASSEMBLYRESOURCE:Debug\LibraryManagementSystem.form3.resources /ASSEMBLYRESOURCE:Debug\LibraryManagementSystem.form4.resources /ASSEMBLYRESOURCE:Debug\LibraryManagementSystem.form5.resources /ASSEMBLYRESOURCE:Debug\LibraryManagementSystem.form6.resources /ASSEMBLYRESOURCE:Debug\LibraryManagementSystem.form7.resources /MANIFEST /ManifestFile:"Debug\Library Management System.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\ماتريال الكليه\My Projects\MY Project 1(library Management System )\proj\Library Management System\Debug\Library Management System.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         "Debug\Form 1.obj"
+         "Debug\Form 4.obj"
+         Debug\Form2.obj
+         Debug\Form3.obj
+         Debug\Form31.obj
+         Debug\Form32.obj
+         Debug\form33.obj
+         Debug\form42.obj
+         Debug\form5.obj
+         Debug\form6.obj
+         Debug\form7.obj
+         Debug\form8.obj
+         "Debug\Library Management System.obj"
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Library Management System.vcxproj -> E:\ماتريال الكليه\My Projects\MY Project 1(library Management System )\proj\Library Management System\Debug\Library Management System.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\ماتريال الكليه\My Projects\MY Project 1(library Management System )\proj\Library Management System\Debug\Library Management System.exe;#1" /manifest "Debug\Library Management System.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Library Management System.unsuccessfulbuild".
+         Touching "Debug\Library Management System.lastbuildstate".
+     1>Done Building Project "E:\ماتريال الكليه\My Projects\MY Project 1(library Management System )\proj\Library Management System\Library Management System\Library Management System.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.71
